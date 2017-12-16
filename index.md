@@ -1,15 +1,4 @@
-<html>
-<head>
-  <Title>U-Watch Home</Title>
-</head> 
-<body>
-  <h1>Welcome Home</h1>
-</body>
-</html>
-
 ## Welcome to GitHub Pages
-
-[home](https://github.com/TEELIHONG/NightOwls/blob/master/Home.html)
 
 You can use the [editor on GitHub](https://github.com/TEELIHONG/NightOwls/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
